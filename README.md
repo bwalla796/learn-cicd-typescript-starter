@@ -1,4 +1,4 @@
-![ci workflow](https://github.com/bwalla796/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg?branch=addtests&event=push)
+[![ci](https://github.com/bwalla796/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/bwalla796/learn-cicd-typescript-starter/actions/workflows/ci.yml)
 
 # learn-cicd-typescript-starter (Notely)
 
